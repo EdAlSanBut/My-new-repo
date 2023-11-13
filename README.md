@@ -1,2 +1,2 @@
-# My-new-repo
+# My-new-Repo
 A test repository
